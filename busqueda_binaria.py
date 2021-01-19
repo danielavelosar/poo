@@ -27,3 +27,4 @@ if __name__ == "__main__":
 
     print(f'{numero} {"está" if encontrado else "no está" } en el arreglo')
     #busqueda_lineal(largo_del_array, numero)
+    
